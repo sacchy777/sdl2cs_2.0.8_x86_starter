@@ -1,0 +1,6 @@
+*~
+*.stackdump
+*.a
+*.o
+*.exe
+
